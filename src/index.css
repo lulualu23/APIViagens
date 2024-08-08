@@ -1,0 +1,17 @@
+:root {
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+}
+
+@font-face {
+  font-family: 'Noto_Sans';
+  src: local('Noto_Sans'), url(projeto/src/fonts/Noto_Sans/NotoSans-VariableFont_wdth,wght.ttf) format('truetype');
+}
+* {
+  margin: 0;
+  padding: 0;
+}

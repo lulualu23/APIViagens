@@ -1,0 +1,33 @@
+.Home {
+    background-color: white;
+    display: flex;
+    justify-content: space-around;
+}
+
+.frase_principal {
+    font-size: 32px;
+    margin-top: 8rem;
+}
+
+.frase1 {
+    margin-left: 180px;
+}
+
+.frase2 {
+    margin-left: 220px;
+}
+
+.frase3 {
+    margin-left: 250px;
+}
+
+.imagem_home{
+    margin-left: 20%;
+}
+
+.btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+}
